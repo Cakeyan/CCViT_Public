@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4,5,6,7 python lazyconfig_train_net.py --config-file /data1/users/yanxin/lab/pretrain/beit2_kmeans/detection/configs/benchmarking/benchmarking_mask_rcnn_base_FPN_25ep_LSJ_ccvit.py --num-gpus 4 
