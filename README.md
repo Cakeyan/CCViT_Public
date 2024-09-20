@@ -1,5 +1,7 @@
 # Centroid-centered Modeling for Efficient Vision Transformer Pre-training
 
+The official codebase of [CCViT](https://arxiv.org/abs/2303.04664).
+
 ## Setup
 
 ```
@@ -113,7 +115,7 @@ If you find this repository useful, please consider citing our work:
 ```
 @misc{ccvit,
       title={Centroid-centered Modeling for Efficient Vision Transformer Pre-training}, 
-      author={Xin Yan and Zuchao Li and Lefei Zhang and Bo Du and Dacheng Tao},
+      author={Xin Yan and Zuchao Li and Lefei Zhang},
       year={2023},
       eprint={2303.04664},
       archivePrefix={arXiv},
